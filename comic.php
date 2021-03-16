@@ -17,21 +17,21 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="library.html">Home</a>
+                <a class="nav-link active" aria-current="page" href="library.php">Home</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Category
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="actionadventure.html">Action & Adventure</a></li>
-                  <li><a class="dropdown-item" href="comic.html">Comic</a></li>
-                  <li><a class="dropdown-item" href="horror.html">Horror</a></li>
+                  <li><a class="dropdown-item" href="actionadventure.php">Action & Adventure</a></li>
+                  <li><a class="dropdown-item" href="comic.php">Comic</a></li>
+                  <li><a class="dropdown-item" href="horror.php">Horror</a></li>
                   <li><hr class="dropdown-divider"></li>
-                  <li><a class="dropdown-item" href="thegreatgatsby.html">Readers Choice</a></li>
+                  <li><a class="dropdown-item" href="thegreatgatsby.php">Readers Choice</a></li>
                 </ul>
               </li>
-             
+              
             </ul>
             <form class="d-flex">
               <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
@@ -43,10 +43,10 @@
       <div class="container">
         <div class="row">
           <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
-            <h2><b><br><i>MUMMY</i></b></h2>
+            <h2><b><br><i>IRON MAN</i></b></h2>
             <tr>
-              <td><img src="https://i0.wp.com/splashreport.com/wp-content/uploads/2017/04/mummy-header-1.jpg?fit=851%2C360" class="img-thumbnail" alt="..."></td>
-              <td><center><a class="btn btn-primary" href="mummy.html" role="button">Click Here</a></center></td>
+              <td><img src="https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2020/03/20/Pictures/_b3c757b6-6a75-11ea-963c-5f43816952e0.jpg" class="img-thumbnail" alt="..."></td>
+              <td><center><a class="btn btn-primary" href="ironman.php" role="button">Click Here</a></center></td>
             </tr>
           </div>
         </div>

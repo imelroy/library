@@ -17,18 +17,18 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="library.html">Home</a>
+                <a class="nav-link active" aria-current="page" href="library.php">Home</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Category
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="actionadventure.html">Action & Adventure</a></li>
-                  <li><a class="dropdown-item" href="comic.html">Comic</a></li>
-                  <li><a class="dropdown-item" href="horror.html">Horror</a></li>
+                  <li><a class="dropdown-item" href="actionadventure.php">Action & Adventure</a></li>
+                  <li><a class="dropdown-item" href="comic.php">Comic</a></li>
+                  <li><a class="dropdown-item" href="horror.php">Horror</a></li>
                   <li><hr class="dropdown-divider"></li>
-                  <li><a class="dropdown-item" href="thegreatgatsby.html">Readers Choice</a></li>
+                  <li><a class="dropdown-item" href="thegreatgatsby.php">Readers Choice</a></li>
                 </ul>
               </li>
               
